@@ -8,6 +8,8 @@ import categoryRoutes from "./routes/categoryRoutes.js"
 import productRoutes from "./routes/productRoutes.js"
 import cors from "cors";
 import path from "path";
+import { fileURLToPath } from "url";
+
 
 
 //configure env
@@ -30,6 +32,10 @@ app.use(morgan("dev"));
 app.use('/api/v1/auth',authRoutes)
 app.use("/api/v1/category", categoryRoutes);
 app.use("/api/v1/product", productRoutes);
+
+// Static files
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 //static files
 app.use(express.static(path.join(__dirname,"./client/build")));
