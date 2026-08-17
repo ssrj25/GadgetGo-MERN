@@ -1,6 +1,3 @@
-# GadgetGo-MERN-Stack
-Link to Project : https://webecommerce.onrender.com/
-
 # 🛒 GadgetGo — MERN E-Commerce Platform
 
 > A full-stack e-commerce platform for discovering and purchasing gadgets, built with the MERN stack.
