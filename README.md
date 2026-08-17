@@ -21,7 +21,7 @@
 
 ### Shopping Cart
 
-<img width="1898" height="945" alt="Screenshot 2026-08-17 231829" src="https://github.com/user-attachments/assets/f3b9ac29-96e6-45c7-9ed1-ebb2157ef3a1" />
+<img width="1896" height="924" alt="Screenshot 2026-08-17 231931" src="https://github.com/user-attachments/assets/aa7b1ed2-efd6-4646-9d03-653ffbfc7a2b" />
 
 ---
 
