@@ -9,21 +9,19 @@
 ## 📸 Screenshots
 
 ### Homepage
-<img width="749" height="363" alt="Screenshot 2025-03-03 195726" src="https://github.com/user-attachments/assets/adb82f9b-3bc9-4313-961f-43abb3a93aa7" />
+<img width="1898" height="945" alt="Screenshot 2026-08-17 231829" src="https://github.com/user-attachments/assets/0ff05adf-d5e7-4669-9898-5eed19120a2f" />
 
-![GadgetGo Homepage](screenshots/home.png)
+### Register Page
 
-### Product Listing
+<img width="1891" height="944" alt="Screenshot 2026-08-17 232012" src="https://github.com/user-attachments/assets/0999e23f-885f-4307-bd3d-a1cde976bb3f" />
 
-![Product Listing](screenshots/products.png)
+### Filter Product Listing
 
-### Product Details
-
-![Product Details](screenshots/product-details.png)
+<img width="1887" height="941" alt="Screenshot 2026-08-17 231913" src="https://github.com/user-attachments/assets/5bd6f2ef-6fcd-467c-a79c-1a81ce467e19" />
 
 ### Shopping Cart
 
-![Shopping Cart](screenshots/cart.png)
+<img width="1898" height="945" alt="Screenshot 2026-08-17 231829" src="https://github.com/user-attachments/assets/f3b9ac29-96e6-45c7-9ed1-ebb2157ef3a1" />
 
 ---
 
