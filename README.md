@@ -9,6 +9,7 @@
 ## 📸 Screenshots
 
 ### Homepage
+<img width="749" height="363" alt="Screenshot 2025-03-03 195726" src="https://github.com/user-attachments/assets/adb82f9b-3bc9-4313-961f-43abb3a93aa7" />
 
 ![GadgetGo Homepage](screenshots/home.png)
 
